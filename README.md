@@ -1,6 +1,6 @@
 # FlyEase
 <br>
-FyEase is Java-based Flight Booking System designed to streamline the process of booking flights for travelers. It allows for users to search for available flights, view flight details, make bookings, and manage their bookings. The system allows users to specify their travel preferences, such as departure and destination airports, travel dates, and the number of passengers.
+FlyEase is Java-based Flight Booking System designed to streamline the process of booking flights for travelers. It allows for users to search for available flights, view flight details, make bookings, and manage their bookings. The system allows users to specify their travel preferences, such as departure and destination airports, travel dates, and the number of passengers.
 
 <br>
 Features
